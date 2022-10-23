@@ -63,3 +63,34 @@
 //	return 0;
 //}
 
+//int main()
+//{
+//	int a = 0, b = 0;
+//	return 0;
+
+int main()
+{
+	int a = 0;
+	scanf("%d", &a);
+	if (a < 1)
+	{
+		printf("%d", a);
+	}
+	if (a>=1&&a<10)
+	{
+		printf("%d", 2*a-1);
+	}
+	if (a>=10)
+	{
+		printf("%d", 3*a-11);
+	}
+	return 0;
+}
+
+int main()
+{
+	int a = 0;
+	int b = 4;
+	printf("%d",a+b);
+	return 0;
+}
