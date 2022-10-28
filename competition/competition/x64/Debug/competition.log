@@ -1,2 +1,4 @@
-﻿  competition 19_23.c
-  competition.vcxproj -> D:\gitee\competition\competition\x64\Debug\competition.exe
+﻿  competition_21_23.c
+D:\gitee\competition\competition\competition\competition_21_23.c(53,2): warning C4013: “MyFunction”未定义；假设外部返回 int
+competition_21_23.obj : error LNK2019: 无法解析的外部符号 MyFunction，函数 main 中引用了该符号
+D:\gitee\competition\competition\x64\Debug\competition.exe : fatal error LNK1120: 1 个无法解析的外部命令
